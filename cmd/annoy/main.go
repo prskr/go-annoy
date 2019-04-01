@@ -14,7 +14,9 @@
 
 package main
 
-import "github.com/baez90/go-annoy/cmd"
+import (
+	"github.com/baez90/go-annoy/internal/app/cmd"
+)
 
 func main() {
 	cmd.Execute()

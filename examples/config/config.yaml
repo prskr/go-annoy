@@ -1,0 +1,21 @@
+teams:
+  nocis:
+    url: ""
+    markdown: true
+    defaultTitle: ""
+    defaultSubTitle: ""
+    defaultImageURL: ""
+mail:
+  gmail:
+    host: ""
+    port: 25
+    ssl: true
+    username: ""
+    password: ""
+    from:
+      name: ""
+      address: ""
+    to:
+      - ""
+      - ""
+    defaultSubject: ""
